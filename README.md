@@ -1,4 +1,4 @@
-# Energy Consumption Prediction 🔌
+# Energy Consumption Prediction 
 
 Predicting daily household electricity consumption from weather data using machine learning — with honest model comparison, exploratory analysis, and an interactive prediction tool.
 
